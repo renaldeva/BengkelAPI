@@ -20,7 +20,7 @@ Sistem ini digunakan untuk:
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Komponen  | Teknologi            |
 | --------- | -------------------- |
@@ -31,7 +31,7 @@ Sistem ini digunakan untuk:
 
 ---
 
-## 📂 Struktur Project
+## Struktur Project
 
 ```
 BengkelAPI/

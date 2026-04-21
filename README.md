@@ -107,7 +107,7 @@ bengkel.sql
 
 ---
 
-## 🔗 Endpoint API
+## Endpoint API
 
 | Method | Endpoint                      | Deskripsi                                 |
 | ------ | ----------------------------- | ----------------------------------------- |

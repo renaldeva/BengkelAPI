@@ -134,7 +134,7 @@ bengkel.sql
 Link video:
 
 ```
-https://youtu.be/lJk1TgqRBzw
+[https://youtu.be/lJk1TgqRBzw](https://youtu.be/lJk1TgqRBzw))
 ```
 
 ---

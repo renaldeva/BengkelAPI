@@ -131,11 +131,8 @@ bengkel.sql
 
 ## Video Presentasi
 
-Link video:
-
-```
-[https://youtu.be/lJk1TgqRBzw](https://youtu.be/lJk1TgqRBzw))
-```
+Link video YouTube:
+[https://youtu.be/lJk1TgqRBzw](https://youtu.be/lJk1TgqRBzw)
 
 ---
 
